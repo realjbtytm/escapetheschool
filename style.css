@@ -1,0 +1,22 @@
+body {
+background: #000000;
+color: #008000;
+text-align: center; 
+}
+#main {
+width: 1000px;
+height: 600px;
+margin: 25px auto;
+border: solid 2px #ff3019;
+}
+h1 {
+text-align: center;
+font-family:"Century Schoolbook";
+font: 24pt;
+color: #008000; 	
+}
+p {
+font-family:"Century Schoolbook";
+font-size: 12pt;
+text-align: center;
+}
